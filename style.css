@@ -61,6 +61,26 @@ h1 {
   font-weight: bold;
 }
 
+.four04 {
+  font-size: 32px;
+}
+
+.four04:hover {
+  color: blue;
+}
+
+.four04-big {
+  font-size: 64px;
+}
+.four04-big:hover {
+  color: blue;
+}
+
+#blue {
+  color: blue;
+  font-size: 64px; 
+}
+
 .cursor {
   animation: blink 1s step-end infinite;
 }
