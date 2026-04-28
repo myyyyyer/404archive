@@ -1,34 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Space+Mono&family=Rubik+80s+Fade&display=swap");
-
-.rubik-80s-fade-regular {
-  font-family: "Rubik 80s Fade", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.space-mono-regular {
-  font-family: "Space Mono", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.space-mono-bold {
-  font-family: "Space Mono", monospace;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.space-mono-regular-italic {
-  font-family: "Space Mono", monospace;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.space-mono-bold-italic {
-  font-family: "Space Mono", monospace;
-  font-weight: 700;
-  font-style: italic;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
 
 body {
   font-family: 'Times New Roman', Times, serif;
@@ -46,7 +16,6 @@ body {
 
 .content{
     margin: 100px;
-    /* border: 1px black solid; */
     height: 600px;
 }
 
